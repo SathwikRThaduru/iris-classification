@@ -78,16 +78,16 @@ The **goal** is to build and evaluate multiple classification models that can ac
 ## 📷 Sample Visualizations
 
 ### Pairplot
-![Pairplot](screenshots/pairplot.png)
+![Pairplot](https://github.com/SathwikRThaduru/iris-classification/blob/main/pairplot.png?raw=true)
 
 ### Correlation Heatmap
-![Heatmap](screenshots/heatmap.png)
+![Heatmap](https://github.com/SathwikRThaduru/iris-classification/blob/main/correlation_heatmap.png?raw=true)
 
 ### Confusion Matrix - Best Model
-![Confusion Matrix](screenshots/confusion_matrix.png)
+![Confusion Matrix](https://github.com/SathwikRThaduru/iris-classification/blob/main/Confusion_matrix.png?raw=true)
 
 ### Model Comparison
-![Model Comparison](screenshots/model_comparison.png)
+![Model Comparison](https://github.com/SathwikRThaduru/iris-classification/blob/main/Model_comparision.png?raw=true)
 
 ---
 ## ▶️ How to Run
