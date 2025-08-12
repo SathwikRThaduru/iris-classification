@@ -94,7 +94,7 @@ The **goal** is to build and evaluate multiple classification models that can ac
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/iris-classification.git
+   git clone https://github.com/SathwikRThaduru/iris-classification.git
    cd iris-classification
 ````
 
@@ -126,13 +126,6 @@ This project demonstrates the **complete beginner ML workflow**:
 * Basic hyperparameter tuning
 
 The Iris dataset is small, clean, and well-suited for learning classification techniques, making this project a perfect first step into Machine Learning.
-
----
-
-## 📄 License
-
-This project is open source under the MIT License.
-
 ---
 ✍ Author
 Thaduru Sathwik – LinkedIn
